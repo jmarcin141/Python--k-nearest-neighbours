@@ -2,6 +2,7 @@
 #Zadania z programowania w Pythonie.
 #Grzegorz Jurek
 
+
 #TASK 2
 def Task2():
     print("What is your name, surname and year of birth:")

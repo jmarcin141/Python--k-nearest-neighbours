@@ -1,15 +1,20 @@
 ============================
-Python--k-nearest-neighbours
+k-nearest-neighbours
 ============================
 
 
-Add a short description here!
+Python implementation of knn algorithm.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Knn is a classification method. For every input data sample it searches for k nearest training samples, using Euclidean distance.
+
+For project's purpose the iris dataset is used, but the algorithm can be easily adapted for other kinds of data.
+
+The project contains also tests including accuracy and running time 
+comparison with knn implementation available in scikit-learn package.
 
 
 Note

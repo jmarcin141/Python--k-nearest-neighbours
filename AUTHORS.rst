@@ -2,4 +2,7 @@
 Contributors
 ============
 
-* LBielecki <Â–58625435+WonkieB@users.noreply.github.com>
+* Weronika Sendys
+* Łukasz Bielecki <llbielecki@gmail.com>
+* Grzegorz Jurek
+* Jakub Marcinkowski
